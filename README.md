@@ -160,27 +160,6 @@ npm run build
 | `users` | User profiles and total Eco-Credit balances |
 | `ecoActions` | Submitted and AI-verified eco-actions |
 | `achievements` | Unlocked badges per user |
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how to get started:
-
-1. **Fork** this repository
-2. **Create** a feature branch: `git checkout -b feature/your-feature-name`
-3. **Commit** your changes: `git commit -m 'Add: your feature description'`
-4. **Push** to your branch: `git push origin feature/your-feature-name`
-5. **Open** a Pull Request
-
-Please ensure your code follows the existing style and all features work correctly before submitting.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
 ---
 
 ## 👨‍💻 Author
